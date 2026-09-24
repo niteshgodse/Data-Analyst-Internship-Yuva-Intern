@@ -1,0 +1,21 @@
+Order_ID,Date,Category,Product,Region,Quantity,Unit_Price,Discount,Revenue,Month
+1001,2026-01-05,Electronics,Laptop,West,2,650,0.05,1235.0,January
+1002,2026-01-12,Furniture,Chair,South,3,120,0.1,324.0,January
+1003,2026-01-19,Office Supplies,Notebook,East,10,8,0.0,80.0,January
+1004,2026-01-26,Electronics,Headphones,North,4,75,0.08,276.0,January
+1005,2026-02-02,Furniture,Desk,West,2,300,0.05,570.0,February
+1006,2026-02-09,Electronics,Laptop,West,1,700,0.0,700.0,February
+1007,2026-02-16,Furniture,Chair,South,5,110,0.12,484.0,February
+1008,2026-02-23,Office Supplies,Notebook,East,8,7,0.0,56.0,February
+1009,2026-03-02,Electronics,Headphones,North,3,80,0.05,228.0,March
+1010,2026-03-09,Furniture,Desk,West,2,280,0.1,504.0,March
+1011,2026-03-16,Electronics,Laptop,West,4,620,0.07,2306.3999999999996,March
+1012,2026-03-23,Furniture,Chair,South,2,130,0.05,247.0,March
+1013,2026-03-30,Office Supplies,Notebook,East,12,9,0.0,108.0,March
+1014,2026-04-06,Electronics,Headphones,North,5,70,0.1,315.0,April
+1015,2026-04-13,Furniture,Desk,West,1,320,0.05,304.0,April
+1016,2026-04-20,Electronics,Laptop,West,3,680,0.08,1876.8000000000002,April
+1017,2026-04-27,Furniture,Chair,South,4,115,0.12,404.8,April
+1018,2026-05-04,Office Supplies,Notebook,East,15,8,0.0,120.0,May
+1019,2026-05-11,Electronics,Headphones,North,2,85,0.05,161.5,May
+1020,2026-05-18,Furniture,Desk,West,3,290,0.1,783.0,May
